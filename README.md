@@ -17,7 +17,8 @@ Online marketplace for STEM equipment (Python, Django, Tailwind CSS, HTML)
 
 ## Introduction
 
-Provide a concise introduction to your project. Mention its purpose, key features, and any other relevant information.
+Scalable online platform that allows users to buy and sell items. Users can message each other with a full interactive inbox. 
+Items can be categorized and searched through filters. 
 
 ## Features
 
