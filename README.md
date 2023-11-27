@@ -2,6 +2,9 @@
 
 Online marketplace for STEM equipment (Python, Django, Tailwind CSS, HTML)
 
+![browse](https://github.com/harmanbrar7/online-marketplace-django/assets/89001739/41fc117c-f066-43f4-ae43-abe7c5e0f7e4)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
