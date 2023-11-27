@@ -1,10 +1,6 @@
-# online-marketplace-django
+# Django Online Marketplace 
+
 Online marketplace for STEM equipment (Python, Django, Tailwind CSS, HTML)
-
-
-# Project Title
-
-Brief project description and purpose.
 
 ## Table of Contents
 
@@ -30,7 +26,7 @@ Provide a concise introduction to your project. Mention its purpose, key feature
 
 ## Demo
 
-Include screenshots, gifs, or links to a live demo to showcase your project.
+Tested images provided in Folder 'Test Images'
 
 ## Installation
 
