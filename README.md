@@ -25,8 +25,11 @@ Items can be categorized and searched through filters.
 
 ## Features
 
-- List key features of your project.
-- Use bullet points for clarity.
+- Chat box/email relay
+- Form Submission
+- scalable for any marketplace, category, or user types as desired
+- easy local machine to browser upload for users and backend admin
+- responsive design 
 
 ## Demo
 
@@ -34,8 +37,17 @@ Tested images provided in Folder 'Test Images'
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed.
-
 ```bash
-# Example installation command
-npm install
+# recommended to create a virtual environment
+# example name 'env'
+python3 -m venv env
+```
+```bash
+source env/bin/activate
+```
+```bash
+pip3 install django
+```
+```bash
+django-admin startproject <your_project_name_here>
+```
