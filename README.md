@@ -11,12 +11,7 @@ Online marketplace for STEM equipment (Python, Django, Tailwind CSS, HTML)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
+
 
 ## Introduction
 
