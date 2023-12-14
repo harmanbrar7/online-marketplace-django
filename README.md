@@ -41,6 +41,7 @@ python3 -m venv env
 source env/bin/activate
 ```
 ```bash
+# i use pip3, a normal pip install will work aswell, check your python versions
 pip3 install django
 ```
 ```bash
