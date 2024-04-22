@@ -28,7 +28,7 @@ Items can be categorized and searched through filters.
 
 ## Demo
 
-Tested images provided in Folder 'Test Images'
+Tested images provided in Folder 'Test Images'.
 
 ## Installation
 
